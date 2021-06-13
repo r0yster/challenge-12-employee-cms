@@ -1,0 +1,24 @@
+{
+  "name": "challenge-12-employee-cms",
+  "version": "1.0.0",
+  "description": "## Description Command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL. Created to help business owners view and manage the departments, roles, and employees in their company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0yster/challenge-12-employee-cms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r0yster/challenge-12-employee-cms/issues"
+  },
+  "homepage": "https://github.com/r0yster/challenge-12-employee-cms#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "mysql2": "^2.2.5"
+  }
+}
