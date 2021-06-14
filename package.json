@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/r0yster/challenge-12-employee-cms#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.1.0",
     "mysql2": "^2.2.5"
   }
