@@ -34,7 +34,6 @@ function viewRoles() {
 };
 
 function viewEmployees() {
-
     const sql = `SELECT e.id AS Employee_Id, e.first_name AS First_Name, e.last_name AS Last_Name, emp_roles.title AS Title,
                  department.name AS Department, emp_roles.salary AS Salary, CONCAT(m.first_name,' ',m.last_name) AS Manager
                  FROM employee e inner join emp_roles
