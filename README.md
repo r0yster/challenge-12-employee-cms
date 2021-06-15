@@ -3,6 +3,13 @@
 ## Description
 Command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL. Created to help business owners view and manage the departments, roles, and employees in their company.
 
+## Installation
+- Clone repository or download zip folder
+- run npm install
+- Log into mysql and run source files db.sql, schema.sql, seeds.sql (mysql> source db/db.sql)
+- Enter mysql credentials in db/connection.js
+- In terminal run 'node index.js'
+
 ## Criteria
 GIVEN a command-line application that accepts user input
 
