@@ -28,3 +28,5 @@ Update Employee Info
 ![image](https://user-images.githubusercontent.com/10663977/122012171-7f4b0e80-cd82-11eb-933d-40b411df8fe3.png)
 
 ## Application Walkthrough
+
+https://drive.google.com/file/d/12W5t9UHb6dPUN_UNG74hid-QMPgvLPGC/view
