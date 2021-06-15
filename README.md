@@ -29,4 +29,4 @@ Update Employee Info
 
 ## Application Walkthrough
 
-https://drive.google.com/file/d/12W5t9UHb6dPUN_UNG74hid-QMPgvLPGC/view
+https://www.youtube.com/watch?v=kaAWCl42MC0
