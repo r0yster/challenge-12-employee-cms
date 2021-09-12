@@ -1,4 +1,4 @@
-# challenge-12-employee-cms
+# employee-cms
 
 ## Description
 Command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL. Created to help business owners view and manage the departments, roles, and employees in their company.
